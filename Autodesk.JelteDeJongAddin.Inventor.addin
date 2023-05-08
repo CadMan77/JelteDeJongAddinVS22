@@ -1,0 +1,8 @@
+﻿<Addin Type="Standard">
+	<ClassId>{0F37B289-16C0-4C71-9CFC-CE32A2842361}</ClassId>
+	<ClientId>{0F37B289-16C0-4C71-9CFC-CE32A2842361}</ClientId>
+	<DisplayName>Jelte-de-Jong-Addin</DisplayName>
+	<Description>No Description</Description>
+	<Assembly>JelteDeJongAddin.dll</Assembly>
+	<SupportedSoftwareVersionGreaterThan>25..</SupportedSoftwareVersionGreaterThan>
+</Addin>

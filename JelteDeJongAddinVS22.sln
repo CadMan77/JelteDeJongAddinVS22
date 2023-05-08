@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "JelteDeJongAddin", "JelteDeJongAddin.vbproj", "{0F30039F-2778-4D42-82D1-0F9CD6588507}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F30039F-2778-4D42-82D1-0F9CD6588507}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F30039F-2778-4D42-82D1-0F9CD6588507}.Debug|x64.ActiveCfg = Debug|x64
+		{0F30039F-2778-4D42-82D1-0F9CD6588507}.Debug|x86.ActiveCfg = Debug|x86
+		{0F30039F-2778-4D42-82D1-0F9CD6588507}.Debug|x86.Build.0 = Debug|x86
+		{0F30039F-2778-4D42-82D1-0F9CD6588507}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F30039F-2778-4D42-82D1-0F9CD6588507}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F30039F-2778-4D42-82D1-0F9CD6588507}.Release|x64.ActiveCfg = Release|x64
+		{0F30039F-2778-4D42-82D1-0F9CD6588507}.Release|x64.Build.0 = Release|x64
+		{0F30039F-2778-4D42-82D1-0F9CD6588507}.Release|x86.ActiveCfg = Release|x86
+		{0F30039F-2778-4D42-82D1-0F9CD6588507}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EDB4F5F5-7D58-45FA-BC92-41E7978A0BC5}
+	EndGlobalSection
+EndGlobal
